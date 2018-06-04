@@ -1,4 +1,21 @@
 {
-  "name": "app",
-  "displayName": "app"
+  "name": "appName",
+  "displayName": "appName",
+  "expo": {
+    "name": "appName",
+    "slug": "appSlug",
+    "icon": "./icon.png",
+    "version": "0.0.1",
+    "sdkVersion": "27.0.0",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.company.appName"
+    },
+    "android": {
+      "package": "com.company.appName"
+    }
+  }
 }
