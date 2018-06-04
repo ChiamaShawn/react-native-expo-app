@@ -62,6 +62,6 @@
     "react-test-renderer": "16.3.1"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "jest-expo"
   }
 }

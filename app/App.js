@@ -5,6 +5,7 @@
  */
 
 import React from "react";
+import Expo from "expo";
 import Ionicons from "@expo/vector-icons/fonts/Ionicons.ttf";
 import App from "./src/App";
 

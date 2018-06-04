@@ -14,8 +14,7 @@ module.exports = {
   plugins: ["flowtype", "prettier", "react-native"],
 
   globals: {
-    __DEV__: true,
-    Expo: true
+    __DEV__: true
   },
 
   env: {
